@@ -10,7 +10,7 @@ Repository ini berisi materi tutorial Python untuk mahasiswa geofisika, dengan f
    - Mencakup materi dari dasar hingga lanjutan
    - Termasuk contoh penggunaan AI assistant
 
-2. **presentasi.txt**
+2. **presentasi.pdf**
    - Slides presentasi untuk tutorial
    - Overview Python dalam geofisika
 
