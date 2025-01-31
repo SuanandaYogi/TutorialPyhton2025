@@ -1,6 +1,6 @@
 # Python Tutorial for Geophysics Students 2025
 
-Repository ini berisi materi tutorial Python untuk mahasiswa geofisika, dengan fokus pada komputasi ilmiah dan aplikasi AI dalam geofisika.
+Repository ini berisi materi tutorial Python untuk mahasiswa Himpunan Mahasiswa Geofisika FMIPA Universitas Tanjungpura, dengan Judul kegiatan *GEOTUTORIAL SOFTWARE: PENGENALAN SOFTWARE PYTHON*. Materi ini berfokus pada komputasi ilmiah dan aplikasi AI dalam geofisika.
 
 ## Contents
 
